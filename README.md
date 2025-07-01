@@ -24,5 +24,13 @@ The goal of this project is to:
 - Delivery time performance trends
 
 ## 📈 Tableau Dashboards
+### 📊 Business Overview Dashboard
 ![Business Overview Dashboard](Tableau/Dashboard_Screenshots/01_Business_Overview_Dashboard.jpg)
+
+### Sales Performance Overview Dashboard
+![Sales Performance Overview Dashboard](Tableau/Dashboard_Screenshots/02_Sales_Performance_Overview_Dashboard.jpg)
+
+### Customer Retention Analysis Dashboard
+![Customer Retention Analysis Dashboard](Tableau/Dashboard_Screenshots/03_Customer_Retention_Analysis_Dashboard.jpg)
+
 - 👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/avdhut.sabnis/viz/OlistE-CommerceSalesCustomerandRetentionInsights/1_DBBusinessOverview#1)
