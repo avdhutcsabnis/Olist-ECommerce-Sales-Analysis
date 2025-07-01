@@ -54,6 +54,47 @@ All datasets used in this project are part of the public Olist E-Commerce datase
 
 📦 Folder Structure
 Olist-ECommerce-Sales-Analysis/
+│
+├── Data/                        # Olist dataset CSV files
+│   ├── olist_customers_dataset.csv
+│   ├── olist_geolocation_dataset.csv
+│   ├── olist_order_items_dataset.csv
+│   ├── olist_order_payments_dataset.csv
+│   ├── olist_order_reviews_dataset.csv
+│   ├── olist_orders_dataset.csv
+│   ├── olist_products_dataset.csv
+│   ├── olist_sellers_dataset.csv
+│   └── product_category_name_translation.csv
+│
+├── SQL/                         # SQL queries for analysis
+│   ├── 01_customer_behavior_analysis.sql
+│   ├── 02_sales_trend_analysis.sql
+│   ├── 03_geography_analysis.sql
+│   ├── 04_payment_behavior.sql
+│   ├── 05_review_score_analysis.sql
+│   └── 06_customer_retention_cohort.sql
+│
+├── Tableau/                     # Tableau workbook and visuals
+│   ├── dashboard.twbx
+│   └── Dashboard_Screenshots/
+│       ├── 01_Business_Overview_Dashboard.jpg
+│       ├── 02_Sales_Performance_Overview_Dashboard.jpg
+│       └── 03_Customer_Retention_Analysis_Dashboard.jpg
+│
+├── Docs/                        # Case study or project report
+│   └── Case_Study_Olist_Analysis.docx
+│
+├── Images/                      # Banner and other README visuals
+│   └── Banner.png
+│
+├── .gitignore                   # Git ignore rules
+├── LICENSE                      # MIT license
+└── README.md                    # Project overview
+
+
+
+
+Olist-ECommerce-Sales-Analysis/
 ├── 📁 Data/                         → Olist e-commerce CSV datasets
 ├── 📁 SQL/                          → SQL scripts for analysis
 ├── 📁 Tableau/                      → Tableau dashboards and screenshots
