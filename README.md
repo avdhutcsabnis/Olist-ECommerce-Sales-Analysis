@@ -50,3 +50,43 @@ All datasets used in this project are part of the public Olist E-Commerce datase
 ![Customer Retention Analysis Dashboard](Tableau/Dashboard_Screenshots/03_Customer_Retention_Analysis_Dashboard.jpg)
 
 👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/avdhut.sabnis/viz/OlistE-CommerceSalesCustomerandRetentionInsights/1_DBBusinessOverview#1)
+
+
+Folder Structure
+📦 Olist-ECommerce-Sales-Analysis/
+├── 📁 Data/                          # All Olist e-commerce CSV datasets
+│   ├── olist_customers_dataset.csv
+│   ├── olist_geolocation_dataset.csv
+│   ├── olist_order_items_dataset.csv
+│   ├── olist_order_payments_dataset.csv
+│   ├── olist_order_reviews_dataset.csv
+│   ├── olist_orders_dataset.csv
+│   ├── olist_products_dataset.csv
+│   ├── olist_sellers_dataset.csv
+│   └── product_category_name_translation.csv
+│
+├── 📁 SQL/                          # SQL queries for business analysis
+│   ├── 01_customer_behavior_analysis.sql
+│   ├── 02_sales_trend_analysis.sql
+│   ├── 03_geography_analysis.sql
+│   ├── 04_payment_behavior.sql
+│   ├── 05_review_score_analysis.sql
+│   └── 06_customer_retention_cohort.sql
+│
+├── 📁 Tableau/                      # Tableau workbooks and screenshots
+│   ├── Olist_E-Commerce.twbx
+│   └── Dashboard_Screenshots/
+│       ├── 01_Business_Overview_Dashboard.jpg
+│       ├── 02_Sales_Performance_Overview_Dashboard.jpg
+│       └── 03_Customer_Retention_Analysis_Dashboard.jpg
+│
+├── 📁 Docs/                         # Project documentation
+│   └── Case_Study_Olist_Analysis.docx
+│
+├── 📁 Images/                       # Banner and visuals for README
+│   └── Banner.png
+│
+├── .gitignore                      # Git ignore rules
+├── LICENSE                         # Project license (MIT)
+└── README.md                       # Project overview and instructions
+
