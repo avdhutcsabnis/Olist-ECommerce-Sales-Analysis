@@ -33,4 +33,4 @@ The goal of this project is to:
 ### 📊 Customer Retention Analysis Dashboard
 ![Customer Retention Analysis Dashboard](Tableau/Dashboard_Screenshots/03_Customer_Retention_Analysis_Dashboard.jpg)
 
-- 👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/avdhut.sabnis/viz/OlistE-CommerceSalesCustomerandRetentionInsights/1_DBBusinessOverview#1)
+👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/avdhut.sabnis/viz/OlistE-CommerceSalesCustomerandRetentionInsights/1_DBBusinessOverview#1)
