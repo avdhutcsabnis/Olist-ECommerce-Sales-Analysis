@@ -17,7 +17,7 @@ The goal of this project is to:
 - **Tableau**: Dashboard design and storytelling
 
 - ## 🔍 Key Analyses Performed
-- 
+
 - Cohort analysis for customer retention
 - Monthly sales and order trends
 - Customer segmentation by states and review scores
