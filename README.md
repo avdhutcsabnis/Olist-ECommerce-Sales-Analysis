@@ -18,6 +18,20 @@ The goal of this project is to:
 - **Python**: Python (pandas, SQLAlchemy, PyMySQL): Data loading and minor cleaning
 - **Tableau**: Dashboard design and storytelling
 
+## 📄 Dataset Files
+
+All datasets used in this project are part of the public Olist E-Commerce dataset and are available in the [Data](./Data) folder:
+
+- [olist_customers_dataset.csv](./Data/olist_customers_dataset.csv)
+- [olist_geolocation_dataset.csv](./Data/olist_geolocation_dataset.csv)
+- [olist_order_items_dataset.csv](./Data/olist_order_items_dataset.csv)
+- [olist_order_payments_dataset.csv](./Data/olist_order_payments_dataset.csv)
+- [olist_order_reviews_dataset.csv](./Data/olist_order_reviews_dataset.csv)
+- [olist_orders_dataset.csv](./Data/olist_orders_dataset.csv)
+- [olist_products_dataset.csv](./Data/olist_products_dataset.csv)
+- [olist_sellers_dataset.csv](./Data/olist_sellers_dataset.csv)
+- [product_category_name_translation.csv](./Data/product_category_name_translation.csv)
+
 ## 🔍 Key Analyses Performed
 
 - Cohort analysis for customer retention
