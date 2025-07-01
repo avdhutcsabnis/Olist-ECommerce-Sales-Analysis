@@ -1,3 +1,5 @@
+![Olist E-Commerce Banner](Images/Banner.png)
+
 # Olist E-Commerce Sales Analysis
 
 End-to-end data analysis project on the Olist Brazilian E-commerce dataset. Explored customer behavior, sales performance, and retention trends using SQL and Tableau to deliver actionable insights via interactive dashboards.
